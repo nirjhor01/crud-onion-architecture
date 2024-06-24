@@ -1,0 +1,6 @@
+@CrudUsingOnion_HostAddress = http://localhost:5017
+
+GET {{CrudUsingOnion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
